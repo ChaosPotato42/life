@@ -1,0 +1,30 @@
+                       a,b,c,d,/**/e,f,g,h,i,j
+                       ,k;typedef/***/l;l/***/
+                       typedef/***/m(l);l/***/
+                       typedef/***/n(l);l/***/
+                       typedef/**/o(l,l,l*);//
+                       l/**/typedef/**/p();l/*
+                       */typedef/**/q(l*);l/**
+                       ***/typedef/****/r(l);l
+                       typedef/***/s(l*);l/**/
+                       typedef/**/t(l);u(){/**
+                                              */typedef/**/l/**/v();m
+                                              (m)asm("srand");n(n)asm
+                                              ("time");m(n(0));{/****
+                                              */struct{short a,b,c,d;
+                                              }a;o(o)asm("ioctl");o(1
+                                              ,21523,&a);h=a.b;i=a.a+
+                                              4;}char/**/w[h*i*2];/**
+                                              */char*x[2]={w,w+h*i};a
+                                              =(a=0)&({y:0;}/**/)|({p
+                                              (p)asm("rand");a[w]=p()
+>~(3<<30);1;})*(++a>h*i)?:({goto*&&y;0;});z:a=(a=0)&({A:0;})|({b=(b=0
+)&({E:0;})|({c=(c=0)&({B:0;})|({j=0;d=(d=-1)&({C:0;})|({f=(b+d+i)%i;e
+=(e=-1)&({D:0;})|({g=(c+e+h)%h;j+=a[x][g+f*h/**/]&&(d|e);1;})*(++e>1)
+?:({goto/**/*&&D;0;});1;})*(++d>1)?:({goto*&&C;0;});k=c+b*h;switch(j)
+if(0)case/**/0:case/**/1:(1-a)[x][k]=0;else/****/if(0)case/**/2:(1-a)
+[x][k]=a[x][k];else/**/if(0)case/**/3:(1-a)[x][k]=1;else/**/default:(
+1-a)[x][k]=0;s(s)asm("printf");r(r)asm("putchar");if(a[x][k])s("█")/*
+*/;else/**/r(32);1;})*(++c>=h)?:({goto*&&B;0;});1;})*(++b>=i)?:({goto
+*&&E;0;});q(q)asm("puts");q("\x1b[H");t(t)/***/asm("usleep");t(20000)
+;1;})*(++a>1)?:({goto*/**/&&A;0;});goto/**/z;v/***/u/**/asm("main");}
